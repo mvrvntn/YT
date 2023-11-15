@@ -1,0 +1,59 @@
+{
+	"links": [
+                {
+			"title": "Файл Сервера TORRSERV ARM ARM7",
+			"description": "Файл для ручной установки TORRSERVE 32 bit",
+			"url": "https://tecnozon.h1n.ru/TorrServer-android-arm7.so",
+			"mirror": "https://technozon.s-host.net/TorrServer-android-arm7.so",
+			"app_review": "https://youtu.be/TTM1ekrQw8U",
+			"category": "Обход блокировок"
+		},
+		{
+			"title": "Файл Сервера TORRSERV ARM64 ",
+			"description": "Файл для ручной установки TORRSERVE 64 bit",
+			"url": "https://tecnozon.h1n.ru/TorrServer-android-arm64.so",
+			"mirror": "https://technozon.s-host.net/TorrServer-android-arm64.so",
+			"app_review": "https://youtu.be/TTM1ekrQw8U",
+			"category": "Обход блокировок"
+		},
+
+		{
+			"title": "Файл ANTIZAPRET для OPEN VPN",
+			"description": "Обход блокировок в России ЗАЖАТЬ ДЛЯ ОБЗОРА",
+			"url": "https://antizapret.prostovpn.org/antizapret-tcp.ovpn",
+			"app_review": "https://youtu.be/TTM1ekrQw8U",
+			"category": "Обход блокировок"
+		},
+		{
+			"title": "Файл ZABORONA для OPEN VPN",
+			"description": "Обход блокировок в Украине ЗАЖАТЬ ДЛЯ ОБЗОРА",
+			"url": "https://zaborona.help/openvpn-client-config/zaborona-help_maxroutes.ovpn",
+			"app_review": "https://youtu.be/TTM1ekrQw8U",
+			"category": "Обход блокировок"
+		}
+
+
+	],
+   	"apps": [{
+			"title": "VIEWBOX",
+			"description": "VIEWBOX кинотеатр",
+			"url": "https://strannikmodz.me/index.php?do=download&id=4801",
+			"mirror": "https://strannikmodz.me/index.php?do=download&id=4801",
+			"category": "MVRVNTN"
+		},
+		{
+			"title": "VIMU",
+			"description": "VIMU плеер",
+			"url": "https://strannikmodz.me/index.php?do=download&id=4469",
+			"mirror": "https://strannikmodz.me/index.php?do=download&id=4469",
+			"category": "MVRVNTN"
+		},
+		{
+			"title": "LazyMedia Deluxe",
+			"description": "LazyMedia Deluxe кинотеатр",
+			"url": "https://strannikmodz.me/index.php?do=download&id=4899",
+			"app_review": "https://strannikmodz.me/index.php?do=download&id=4899",
+			"category": "MVRVNTN"
+		}
+	]
+}
