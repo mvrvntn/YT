@@ -1,0 +1,21 @@
+! 2023-08-27 https://rezka.ag
+||static.hdrezka.ac/templates/hdrezka/images/slava.jpg$image
+||static.hdrezka.ac/templates/hdrezka/images/slava.jpg$image
+||static.hdrezka.ac/templates/hdrezka/images/slava.jpg$image
+www.youtube.com###related
+m.youtube.com##ytm-watch ytm-item-section-renderer[data-content-type="related"]
+www.youtube.com##ytd-browse[page-subtype="home"]
+m.youtube.com##ytm-browse div[tab-identifier="FEwhat_to_watch"]
+www.youtube.com##.ytp-ce-element
+www.youtube.com##.ytp-endscreen-content
+www.youtube.com##ytd-browse[page-subtype="home"] ytd-rich-section-renderer
+www.youtube.com##ytd-rich-item-renderer[is-post].ytd-rich-shelf-renderer:upward(ytd-rich-section-renderer)
+www.google.*###rcnt > div:first-of-type:not([id]) > div:has(g-more-link,g-scrolling-carousel,g-img)
+www.google.*###rso:has(> div:nth-of-type(6)) > div:has(g-more-link,g-section-with-header)
+www.google.*###rso:has(> div:nth-of-type(6)) > div:has(div[role="heading"]+g-scrolling-carousel)
+www.google.*###kp-wp-tab-overview > div:has(g-more-link,g-section-with-header,#media_result_group)
+www.google.*###rso div.related-question-pair:upward(div[jscontroller])
+www.google.*###botstuff #bres
+www.google.*###rso div.g div[jscontroller][id^="eob_"]
+www.google.*##div.isv-r[data-rfg]
+
